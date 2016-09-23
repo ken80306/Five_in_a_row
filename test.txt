@@ -1,2 +1,7 @@
 test
 Hi git
+
+int main()
+{
+return 0;
+}
