@@ -8,5 +8,6 @@ void minmax(GAME state,int depth)
 
 	for()
 		minmax(nexr_state,depth-1);
+	class 
 
 }
