@@ -1,4 +1,8 @@
+#include "minmax.h"
+
 #include<vector>
+
+temlpate <class Board>
 class Game {
 public:
   class Game_value
